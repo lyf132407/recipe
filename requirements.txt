@@ -1,0 +1,8 @@
+requests>=2.31.0
+tenacity>=8.4.1
+python-dotenv>=1.0.0
+jieba>=0.42.1
+fuzzywuzzy>=0.18.0
+cachetools>=5.3.2
+openpyxl>=3.1.5
+ttkbootstrap>=1.10.0

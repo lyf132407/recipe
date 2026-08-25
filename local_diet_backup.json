@@ -1,0 +1,10 @@
+{
+  "userId": "default_user",
+  "diner_num": 1,
+  "taste_like": [
+    "辣"
+  ],
+  "taboo_foods": [],
+  "need_fat_loss": false,
+  "prefer_cooker": ""
+}
